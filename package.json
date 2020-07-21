@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/santetch/bowling-game-kata#readme",
   "dependencies": {
-    "mocha": "^8.0.1"
+    "mocha": "^8.0.1",
+    "sinon": "^9.0.2",
+    "sinon-chai": "^3.5.0"
   }
 }
