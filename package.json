@@ -1,0 +1,25 @@
+{
+  "name": "bowling-game-kata",
+  "version": "1.0.0",
+  "description": "This kata from https://kata-log.rocks/bowling-game-kata is made in order to practice some principles from SOLID, TDD, Outside-In",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santetch/bowling-game-kata.git"
+  },
+  "author": "santech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santetch/bowling-game-kata/issues"
+  },
+  "homepage": "https://github.com/santetch/bowling-game-kata#readme",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
